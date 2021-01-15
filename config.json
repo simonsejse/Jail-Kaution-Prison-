@@ -1,0 +1,128 @@
+{
+  "A" : {
+    "locationX" : 1,
+    "locationY" : 1,
+    "locationZ" : 1,
+    "reasons" : {
+      "armor" : {
+        "priceToBail" : 700,
+        "name" : "armor",
+        "timeInMinutes" : 7.0
+      },
+      "vÃ¥ben" : {
+        "priceToBail" : 700,
+        "name" : "vÃ¥ben",
+        "timeInMinutes" : 7.0
+      },
+      "slagvagt" : {
+        "priceToBail" : 700,
+        "name" : "slagvagt",
+        "timeInMinutes" : 7.0
+      },
+      "narko" : {
+        "priceToBail" : 1000,
+        "name" : "narko",
+        "timeInMinutes" : 10.0
+      },
+      "provo" : {
+        "priceToBail" : 1000,
+        "name" : "provo",
+        "timeInMinutes" : 5.0
+      },
+      "slag" : {
+        "priceToBail" : 500,
+        "name" : "slag",
+        "timeInMinutes" : 5.0
+      },
+      "nopvp" : {
+        "priceToBail" : 1000,
+        "name" : "nopvp",
+        "timeInMinutes" : 10.0
+      }
+    }
+  },
+  "B" : {
+    "locationX" : 1,
+    "locationY" : 1,
+    "locationZ" : 1,
+    "reasons" : {
+      "armor" : {
+        "priceToBail" : 700,
+        "name" : "armor",
+        "timeInMinutes" : 7.0
+      },
+      "vÃ¥ben" : {
+        "priceToBail" : 700,
+        "name" : "vÃ¥ben",
+        "timeInMinutes" : 7.0
+      },
+      "slagvagt" : {
+        "priceToBail" : 700,
+        "name" : "slagvagt",
+        "timeInMinutes" : 7.0
+      },
+      "narko" : {
+        "priceToBail" : 1000,
+        "name" : "narko",
+        "timeInMinutes" : 10.0
+      },
+      "provo" : {
+        "priceToBail" : 1000,
+        "name" : "provo",
+        "timeInMinutes" : 5.0
+      },
+      "slag" : {
+        "priceToBail" : 500,
+        "name" : "slag",
+        "timeInMinutes" : 5.0
+      },
+      "nopvp" : {
+        "priceToBail" : 1000,
+        "name" : "nopvp",
+        "timeInMinutes" : 10.0
+      }
+    }
+  },
+  "C" : {
+    "locationX" : 1,
+    "locationY" : 1,
+    "locationZ" : 1,
+    "reasons" : {
+      "armor" : {
+        "priceToBail" : 700,
+        "name" : "armor",
+        "timeInMinutes" : 7.0
+      },
+      "vÃ¥ben" : {
+        "priceToBail" : 700,
+        "name" : "vÃ¥ben",
+        "timeInMinutes" : 7.0
+      },
+      "slagvagt" : {
+        "priceToBail" : 700,
+        "name" : "slagvagt",
+        "timeInMinutes" : 7.0
+      },
+      "narko" : {
+        "priceToBail" : 1000,
+        "name" : "narko",
+        "timeInMinutes" : 10.0
+      },
+      "provo" : {
+        "priceToBail" : 1000,
+        "name" : "provo",
+        "timeInMinutes" : 5.0
+      },
+      "slag" : {
+        "priceToBail" : 500,
+        "name" : "slag",
+        "timeInMinutes" : 5.0
+      },
+      "nopvp" : {
+        "priceToBail" : 1000,
+        "name" : "nopvp",
+        "timeInMinutes" : 10.0
+      }
+    }
+  }
+}

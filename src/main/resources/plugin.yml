@@ -1,0 +1,7 @@
+name: JailPlugin
+version: ${project.version}
+main: com.simonsejse.Main
+api-version: 1.16
+authors: [ simonsejse ]
+description: Et plugin for at jaile spillere lavet til Energize.dk
+website: simon-winther.dk
